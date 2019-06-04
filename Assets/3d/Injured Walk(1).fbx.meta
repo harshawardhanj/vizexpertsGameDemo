@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: fa6e73e458cdffd4f878c96cc15e5328
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera_Perspective2
+    100002: Flyingkick_Roll
+    100004: //RootNode
+    100006: Kachujin_G_Rosales:Head
+    100008: Kachujin_G_Rosales:HeadTop_End
+    100010: Kachujin_G_Rosales:Hips
+    100012: Kachujin_G_Rosales:Kachujin
+    100014: Kachujin_G_Rosales:Kachujin_G_Rosales
+    100016: Kachujin_G_Rosales:LeftArm
+    100018: Kachujin_G_Rosales:LeftFoot
+    100020: Kachujin_G_Rosales:LeftForeArm
+    100022: Kachujin_G_Rosales:LeftHand
+    100024: Kachujin_G_Rosales:LeftHandIndex1
+    100026: Kachujin_G_Rosales:LeftHandIndex2
+    100028: Kachujin_G_Rosales:LeftHandIndex3
+    100030: Kachujin_G_Rosales:LeftHandIndex4
+    100032: Kachujin_G_Rosales:LeftHandMiddle1
+    100034: Kachujin_G_Rosales:LeftHandMiddle2
+    100036: Kachujin_G_Rosales:LeftHandMiddle3
+    100038: Kachujin_G_Rosales:LeftHandMiddle4
+    100040: Kachujin_G_Rosales:LeftHandPinky1
+    100042: Kachujin_G_Rosales:LeftHandPinky2
+    100044: Kachujin_G_Rosales:LeftHandPinky3
+    100046: Kachujin_G_Rosales:LeftHandPinky4
+    100048: Kachujin_G_Rosales:LeftHandRing1
+    100050: Kachujin_G_Rosales:LeftHandRing2
+    100052: Kachujin_G_Rosales:LeftHandRing3
+    100054: Kachujin_G_Rosales:LeftHandRing4
+    100056: Kachujin_G_Rosales:LeftHandThumb1
+    100058: Kachujin_G_Rosales:LeftHandThumb2
+    100060: Kachujin_G_Rosales:LeftHandThumb3
+    100062: Kachujin_G_Rosales:LeftHandThumb4
+    100064: Kachujin_G_Rosales:LeftLeg
+    100066: Kachujin_G_Rosales:LeftShoulder
+    100068: Kachujin_G_Rosales:LeftToe_End
+    100070: Kachujin_G_Rosales:LeftToeBase
+    100072: Kachujin_G_Rosales:LeftUpLeg
+    100074: Kachujin_G_Rosales:Neck
+    100076: Kachujin_G_Rosales:RightArm
+    100078: Kachujin_G_Rosales:RightFoot
+    100080: Kachujin_G_Rosales:RightForeArm
+    100082: Kachujin_G_Rosales:RightHand
+    100084: Kachujin_G_Rosales:RightHandIndex1
+    100086: Kachujin_G_Rosales:RightHandIndex2
+    100088: Kachujin_G_Rosales:RightHandIndex3
+    100090: Kachujin_G_Rosales:RightHandIndex4
+    100092: Kachujin_G_Rosales:RightHandMiddle1
+    100094: Kachujin_G_Rosales:RightHandMiddle2
+    100096: Kachujin_G_Rosales:RightHandMiddle3
+    100098: Kachujin_G_Rosales:RightHandMiddle4
+    100100: Kachujin_G_Rosales:RightHandPinky1
+    100102: Kachujin_G_Rosales:RightHandPinky2
+    100104: Kachujin_G_Rosales:RightHandPinky3
+    100106: Kachujin_G_Rosales:RightHandPinky4
+    100108: Kachujin_G_Rosales:RightHandRing1
+    100110: Kachujin_G_Rosales:RightHandRing2
+    100112: Kachujin_G_Rosales:RightHandRing3
+    100114: Kachujin_G_Rosales:RightHandRing4
+    100116: Kachujin_G_Rosales:RightHandThumb1
+    100118: Kachujin_G_Rosales:RightHandThumb2
+    100120: Kachujin_G_Rosales:RightHandThumb3
+    100122: Kachujin_G_Rosales:RightHandThumb4
+    100124: Kachujin_G_Rosales:RightLeg
+    100126: Kachujin_G_Rosales:RightShoulder
+    100128: Kachujin_G_Rosales:RightToe_End
+    100130: Kachujin_G_Rosales:RightToeBase
+    100132: Kachujin_G_Rosales:RightUpLeg
+    100134: Kachujin_G_Rosales:Spine
+    100136: Kachujin_G_Rosales:Spine1
+    100138: Kachujin_G_Rosales:Spine2
+    100140: LightPreset
+    100142: Sky Light
+    100144: Sun Light
+    400000: Camera_Perspective2
+    400002: Flyingkick_Roll
+    400004: //RootNode
+    400006: Kachujin_G_Rosales:Head
+    400008: Kachujin_G_Rosales:HeadTop_End
+    400010: Kachujin_G_Rosales:Hips
+    400012: Kachujin_G_Rosales:Kachujin
+    400014: Kachujin_G_Rosales:Kachujin_G_Rosales
+    400016: Kachujin_G_Rosales:LeftArm
+    400018: Kachujin_G_Rosales:LeftFoot
+    400020: Kachujin_G_Rosales:LeftForeArm
+    400022: Kachujin_G_Rosales:LeftHand
+    400024: Kachujin_G_Rosales:LeftHandIndex1
+    400026: Kachujin_G_Rosales:LeftHandIndex2
+    400028: Kachujin_G_Rosales:LeftHandIndex3
+    400030: Kachujin_G_Rosales:LeftHandIndex4
+    400032: Kachujin_G_Rosales:LeftHandMiddle1
+    400034: Kachujin_G_Rosales:LeftHandMiddle2
+    400036: Kachujin_G_Rosales:LeftHandMiddle3
+    400038: Kachujin_G_Rosales:LeftHandMiddle4
+    400040: Kachujin_G_Rosales:LeftHandPinky1
+    400042: Kachujin_G_Rosales:LeftHandPinky2
+    400044: Kachujin_G_Rosales:LeftHandPinky3
+    400046: Kachujin_G_Rosales:LeftHandPinky4
+    400048: Kachujin_G_Rosales:LeftHandRing1
+    400050: Kachujin_G_Rosales:LeftHandRing2
+    400052: Kachujin_G_Rosales:LeftHandRing3
+    400054: Kachujin_G_Rosales:LeftHandRing4
+    400056: Kachujin_G_Rosales:LeftHandThumb1
+    400058: Kachujin_G_Rosales:LeftHandThumb2
+    400060: Kachujin_G_Rosales:LeftHandThumb3
+    400062: Kachujin_G_Rosales:LeftHandThumb4
+    400064: Kachujin_G_Rosales:LeftLeg
+    400066: Kachujin_G_Rosales:LeftShoulder
+    400068: Kachujin_G_Rosales:LeftToe_End
+    400070: Kachujin_G_Rosales:LeftToeBase
+    400072: Kachujin_G_Rosales:LeftUpLeg
+    400074: Kachujin_G_Rosales:Neck
+    400076: Kachujin_G_Rosales:RightArm
+    400078: Kachujin_G_Rosales:RightFoot
+    400080: Kachujin_G_Rosales:RightForeArm
+    400082: Kachujin_G_Rosales:RightHand
+    400084: Kachujin_G_Rosales:RightHandIndex1
+    400086: Kachujin_G_Rosales:RightHandIndex2
+    400088: Kachujin_G_Rosales:RightHandIndex3
+    400090: Kachujin_G_Rosales:RightHandIndex4
+    400092: Kachujin_G_Rosales:RightHandMiddle1
+    400094: Kachujin_G_Rosales:RightHandMiddle2
+    400096: Kachujin_G_Rosales:RightHandMiddle3
+    400098: Kachujin_G_Rosales:RightHandMiddle4
+    400100: Kachujin_G_Rosales:RightHandPinky1
+    400102: Kachujin_G_Rosales:RightHandPinky2
+    400104: Kachujin_G_Rosales:RightHandPinky3
+    400106: Kachujin_G_Rosales:RightHandPinky4
+    400108: Kachujin_G_Rosales:RightHandRing1
+    400110: Kachujin_G_Rosales:RightHandRing2
+    400112: Kachujin_G_Rosales:RightHandRing3
+    400114: Kachujin_G_Rosales:RightHandRing4
+    400116: Kachujin_G_Rosales:RightHandThumb1
+    400118: Kachujin_G_Rosales:RightHandThumb2
+    400120: Kachujin_G_Rosales:RightHandThumb3
+    400122: Kachujin_G_Rosales:RightHandThumb4
+    400124: Kachujin_G_Rosales:RightLeg
+    400126: Kachujin_G_Rosales:RightShoulder
+    400128: Kachujin_G_Rosales:RightToe_End
+    400130: Kachujin_G_Rosales:RightToeBase
+    400132: Kachujin_G_Rosales:RightUpLeg
+    400134: Kachujin_G_Rosales:Spine
+    400136: Kachujin_G_Rosales:Spine1
+    400138: Kachujin_G_Rosales:Spine2
+    400140: LightPreset
+    400142: Sky Light
+    400144: Sun Light
+    2000000: Camera_Perspective2
+    2100000: kachujin_MAT1
+    4300000: Kachujin_G_Rosales:Kachujin
+    7400000: Base stack
+    7400002: mixamo.com
+    9500000: //RootNode
+    10800000: Sky Light
+    10800002: Sun Light
+    13700000: Kachujin_G_Rosales:Kachujin
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kachujin_MAT1
+    second: {fileID: 2100000, guid: c15aa398ff9e31d4d9134fad262163ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Base stack
+      takeName: Base stack
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
